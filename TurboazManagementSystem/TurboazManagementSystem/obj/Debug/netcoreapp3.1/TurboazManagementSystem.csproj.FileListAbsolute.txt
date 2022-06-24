@@ -1,0 +1,13 @@
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\bin\Debug\netcoreapp3.1\TurboazManagementSystem.exe
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\bin\Debug\netcoreapp3.1\TurboazManagementSystem.deps.json
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\bin\Debug\netcoreapp3.1\TurboazManagementSystem.runtimeconfig.json
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\bin\Debug\netcoreapp3.1\TurboazManagementSystem.runtimeconfig.dev.json
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\bin\Debug\netcoreapp3.1\TurboazManagementSystem.dll
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\bin\Debug\netcoreapp3.1\TurboazManagementSystem.pdb
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\obj\Debug\netcoreapp3.1\TurboazManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\obj\Debug\netcoreapp3.1\TurboazManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\obj\Debug\netcoreapp3.1\TurboazManagementSystem.AssemblyInfo.cs
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\obj\Debug\netcoreapp3.1\TurboazManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\obj\Debug\netcoreapp3.1\TurboazManagementSystem.dll
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\obj\Debug\netcoreapp3.1\TurboazManagementSystem.pdb
+C:\Users\Agayev\source\repos\TurboazManagementSystem\TurboazManagementSystem\obj\Debug\netcoreapp3.1\TurboazManagementSystem.genruntimeconfig.cache
